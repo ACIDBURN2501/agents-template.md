@@ -9,6 +9,7 @@ system prompts). Keep it self-contained. When starting a new repo, keep the
 ## 1) Project-specific instructions
 
 **Project:** <name>
+
 **Primary goal:** <one sentence>
 
 ### 1.1 Essential commands

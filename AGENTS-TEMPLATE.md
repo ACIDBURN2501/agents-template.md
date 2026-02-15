@@ -27,6 +27,12 @@ system prompts). Keep it self-contained. When starting a new repo, keep the
 - <e.g., simulation vs hardware constraints>
 - <e.g., thread-safety constraints>
 - <e.g., platform assumptions>
+- Never commit secrets (`.env`, credentials.json, etc.)
+- Use environment variables for sensitive data
+- Avoid logging sensitive information
+- Follow principle of least privilege for access
+- Sanitize inputs to prevent injection attacks
+- Validate all external data before processing
 
 ### 1.3 Generated / protected paths (do not edit)
 - `<path/glob>` — reason

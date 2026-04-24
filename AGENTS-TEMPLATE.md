@@ -146,6 +146,7 @@ lean and delete any **Sections** that do not apply to your project.
 
 - If Prettier is configured, it is mandatory.
 - If ESLint is configured, fix lint errors; don’t disable rules unless required.
+- No `any` types unless absolutely necessary
 
 ### Testing
 
